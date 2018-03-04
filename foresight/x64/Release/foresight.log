@@ -1,0 +1,9 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  stdafx.cpp
+cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  disparityMap.cpp
+  foresight.cpp
+  Generating code
+  All 242 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  foresight.vcxproj -> C:\Users\yair\Documents\Visual Studio 2015\Projects\foresight\x64\Release\foresight.exe
