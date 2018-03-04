@@ -1,2 +1,4 @@
-.X64
+.x64
 .Debug
+*.VC.opendb
+*.VC.db 

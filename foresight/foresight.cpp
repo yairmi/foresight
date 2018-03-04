@@ -42,7 +42,7 @@ int main()
 		system_clock::now().time_since_epoch()) - ms).count();
 	namedWindow(windowDisparityTitle, WINDOW_NORMAL);
 	imshow(windowDisparityTitle, resultDisparityMap);
-
+	//Nothing added
 	waitKey(0);
 
 	imwrite("disparityResult.png", resultDisparityMap);
